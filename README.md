@@ -1,4 +1,2 @@
 # quickGrab
-Simple Page to grab movie details from OMDB
-
-Compressed for security at the moment
+Simple Page to grab movie details from OMDB by providing a string
